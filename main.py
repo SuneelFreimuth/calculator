@@ -35,3 +35,5 @@ Options: add, subtract, multiply, divide, escape
 
 history.close()
 print('Development build 1')
+print('This is a statement that will '
+  +'appear in Bob\'s Calculator when he pulls it.)
